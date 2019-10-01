@@ -1,0 +1,1 @@
+alert('VueJs goes here')
